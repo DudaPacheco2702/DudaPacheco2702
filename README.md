@@ -2,11 +2,11 @@
 
 Meu nome é Maria Eduarda✨
 
-- Estou estudando na [alura](https://www.alura.com.br/)
-- Estou me desenvolvendo na linguagem Java Script
-- Utilizo este espaço para organização e compartilhamento dos meus projetos desenvolvidos
+- Estou estudando no [Alura](https://www.alura.com.br/);
+- Estou me desenvolvendo na linguagem Java Script;
+- Utilizo este espaço para organização e compartilhamento dos meus projetos desenvolvidos.
 
-  ## Vocẽ pode entrar em cotato comigo 🤖
+  ## Você pode entrar em cotato comigo 🤖
 
   00001105611073sp@al.educacao.sp.gov.br
 
